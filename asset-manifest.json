@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MERN_CALCULATOR/static/css/main.69dbf060.chunk.css",
+    "main.js": "/MERN_CALCULATOR/static/js/main.e77302a5.chunk.js",
+    "main.js.map": "/MERN_CALCULATOR/static/js/main.e77302a5.chunk.js.map",
+    "runtime-main.js": "/MERN_CALCULATOR/static/js/runtime-main.75c10f58.js",
+    "runtime-main.js.map": "/MERN_CALCULATOR/static/js/runtime-main.75c10f58.js.map",
+    "static/js/2.7359c3af.chunk.js": "/MERN_CALCULATOR/static/js/2.7359c3af.chunk.js",
+    "static/js/2.7359c3af.chunk.js.map": "/MERN_CALCULATOR/static/js/2.7359c3af.chunk.js.map",
+    "index.html": "/MERN_CALCULATOR/index.html",
+    "precache-manifest.8e4f3400fefc1cae4e29b4af278e823e.js": "/MERN_CALCULATOR/precache-manifest.8e4f3400fefc1cae4e29b4af278e823e.js",
+    "service-worker.js": "/MERN_CALCULATOR/service-worker.js",
+    "static/css/main.69dbf060.chunk.css.map": "/MERN_CALCULATOR/static/css/main.69dbf060.chunk.css.map",
+    "static/js/2.7359c3af.chunk.js.LICENSE.txt": "/MERN_CALCULATOR/static/js/2.7359c3af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c10f58.js",
+    "static/js/2.7359c3af.chunk.js",
+    "static/css/main.69dbf060.chunk.css",
+    "static/js/main.e77302a5.chunk.js"
+  ]
+}
