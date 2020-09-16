@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Open+Sans|Montserrat);
+
+h1{
+  margin-top: 30px;
+  font-size: 2em;
+  font-weight: bold;
+
+}
+
+.calculator{
+  background-color: rgb(243,238,231);
+  position: relative;
+  margin: 7% auto auto auto;
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align:center;
+  border-color: rbg(93,94,97);
+  border-radius: 20px;
+  box-shadow: inset 2px 0px 10px -5px rgb(85,80,83),
+              inset -5px 0px 15px -5px  rgb(85,80,83),
+              inset 10px 0px 10px -12px rgb(85,80,83),
+              inset -2px 0px 4px 2px rgb(85,80,83),
+              inset -2px 0px 10px 0px rgb(85,80,83);
+}
+
+.result{
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+textarea {
+  max-width: 340px;
+  width: 340px;
+  resize: none;
+  min-height: 80px;
+  border: 2px solid rbg(87,85,85);
+  margin: 2px 2px 8px 2px;
+}
+
+button{
+  border-radius:8px;
+  width: 80px;
+  height:65px;
+  font-size: 28px;
+  border: 2px solid rbg(87,85,85);
+  margin: 2px 2px 8px 2px;
+  transition-duration: 0.4s;
+  box-shadow: inset 5px 0px 15px -5px rgb(109,103,106),
+              inset -3px 0px 15px -5px  rgb(109,103,106),
+              inset 0px -5px 0px -3px rgb(109,103,106),
+              inset 0px 0px 2px 2px rgb(109,103,106),
+              inset 0px 5px 15px 0px rgb(109,103,106);
+
+
+}
+
+.long{
+  width: 170px;
+}
+
+.responsive:hover {
+  background-color: rgb(138,134,134);
+  color: rgb(247,248,248);
+  box-shadow: inset 5px 0px 25px -5px rgb(199,192,182),
+              inset -3px 0px 15px -5px  rgb(199,192,182),
+              inset 0px -5px 0px -3px rgb(199,192,182),
+              inset 0px 0px 7px 7pxrgb(199,192,182),
+              inset 0px 5px 15px 0px rgb(199,192,182);
+}
+
+input {
+  width: 350px;
+  height: 60px;
+  text-align: right;
+  font-size: 1.7em;
+}
+
+
+
